@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.exr
+
+*~
+src/build
+src/bin
+src/objs
+.sconsign.dblite
+
+output/*
+build/*
+*.dir
